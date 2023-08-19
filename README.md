@@ -17,4 +17,6 @@ Dive into an insightful exploration of customer churn trends over a defined time
 
 This analysis aspires to furnish actionable intelligence that guides strategies for customer retention, service enhancement, and overall satisfaction. By comprehending the dynamics of customer churn trends over time, we can proactively address challenges and capitalize on opportunities to cultivate stronger customer relationships.
 
+![kp1](https://github.com/Priya-yadav-077/PWC-virtual-internship/assets/99313883/47351674-79cd-4615-b72c-68148ce417fc)
+
 
